@@ -400,3 +400,78 @@
 2025-09-26 14:34:26.790 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_sorting.sql
 2025-09-26 14:34:26.790 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
 2025-09-26 14:34:26.790 | INFO     | __main__:main:63 - Database connection closed.
+2025-09-26 14:35:58.220 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:35:58.220 | INFO     | __main__:main:45 - Starting database setup...
+2025-09-26 14:35:58.221 | INFO     | __main__:main:59 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:35:58.224 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/01_drop_tables.sql
+2025-09-26 14:35:58.225 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/02_create_tables.sql
+2025-09-26 14:35:58.226 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/03_insert_records.sql
+2025-09-26 14:35:58.226 | INFO     | __main__:main:67 - Database setup completed successfully.
+2025-09-26 14:35:58.226 | INFO     | __main__:main:72 - Database connection closed.
+2025-09-26 14:36:02.491 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:36:02.491 | INFO     | __main__:main:40 - Starting feature queries execution...
+2025-09-26 14:36:02.492 | INFO     | __main__:main:56 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:36:02.493 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/delete_records.sql
+2025-09-26 14:36:02.493 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/update_records.sql
+2025-09-26 14:36:02.493 | INFO     | __main__:main:62 - Feature queries execution completed successfully.
+2025-09-26 14:36:02.493 | INFO     | __main__:main:67 - Database connection closed.
+2025-09-26 14:36:05.998 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:36:05.998 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-09-26 14:36:05.998 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:36:05.999 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_aggregation.sql
+2025-09-26 14:36:05.999 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_filter.sql
+2025-09-26 14:36:06.000 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_group_by.sql
+2025-09-26 14:36:06.000 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_join.sql
+2025-09-26 14:36:06.000 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_sorting.sql
+2025-09-26 14:36:06.000 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-09-26 14:36:06.000 | INFO     | __main__:main:63 - Database connection closed.
+2025-09-26 14:44:38.181 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:44:38.181 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-09-26 14:44:38.183 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:44:38.184 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_aggregation.sql
+2025-09-26 14:44:38.184 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_filter.sql
+2025-09-26 14:44:38.185 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_group_by.sql
+2025-09-26 14:44:38.185 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_join.sql
+2025-09-26 14:44:38.185 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_sorting.sql
+2025-09-26 14:44:38.185 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-09-26 14:44:38.185 | INFO     | __main__:main:63 - Database connection closed.
+2025-09-26 14:46:35.010 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:46:35.010 | INFO     | __main__:main:40 - Starting feature queries execution...
+2025-09-26 14:46:35.011 | INFO     | __main__:main:56 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:46:35.012 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/delete_records.sql
+2025-09-26 14:46:35.012 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/update_records.sql
+2025-09-26 14:46:35.012 | INFO     | __main__:main:62 - Feature queries execution completed successfully.
+2025-09-26 14:46:35.012 | INFO     | __main__:main:67 - Database connection closed.
+2025-09-26 14:57:41.037 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:57:41.037 | INFO     | __main__:main:45 - Starting database setup...
+2025-09-26 14:57:41.038 | INFO     | __main__:main:59 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:57:41.039 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/01_drop_tables.sql
+2025-09-26 14:57:41.040 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/02_create_tables.sql
+2025-09-26 14:57:41.041 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/03_insert_records.sql
+2025-09-26 14:57:41.041 | INFO     | __main__:main:67 - Database setup completed successfully.
+2025-09-26 14:57:41.041 | INFO     | __main__:main:72 - Database connection closed.
+2025-09-26 14:58:55.108 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 14:58:55.108 | INFO     | __main__:main:45 - Starting database setup...
+2025-09-26 14:58:55.110 | INFO     | __main__:main:59 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 14:58:55.111 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/01_drop_tables.sql
+2025-09-26 14:58:55.111 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/02_create_tables.sql
+2025-09-26 14:58:55.112 | INFO     | __main__:execute_sql_file:37 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_create/03_insert_records.sql
+2025-09-26 14:58:55.112 | INFO     | __main__:main:67 - Database setup completed successfully.
+2025-09-26 14:58:55.112 | INFO     | __main__:main:72 - Database connection closed.
+2025-09-26 15:03:39.537 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 15:03:39.537 | INFO     | __main__:main:40 - Starting feature queries execution...
+2025-09-26 15:03:39.539 | INFO     | __main__:main:56 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 15:03:39.541 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/delete_records.sql
+2025-09-26 15:03:39.541 | INFO     | __main__:execute_sql_file:31 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_features/update_records.sql
+2025-09-26 15:03:39.541 | INFO     | __main__:main:62 - Feature queries execution completed successfully.
+2025-09-26 15:03:39.541 | INFO     | __main__:main:67 - Database connection closed.
+2025-09-26 15:07:09.998 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-26 15:07:09.998 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-09-26 15:07:10.001 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql-project/data/db.sqlite3
+2025-09-26 15:07:10.004 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_aggregation.sql
+2025-09-26 15:07:10.004 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_filter.sql
+2025-09-26 15:07:10.004 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_group_by.sql
+2025-09-26 15:07:10.004 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_join.sql
+2025-09-26 15:07:10.004 | INFO     | __main__:execute_sql_file:28 - Executed: /Users/haileyhanson/Repos/datafun-05-sql-project/sql_queries/query_sorting.sql
+2025-09-26 15:07:10.004 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-09-26 15:07:10.004 | INFO     | __main__:main:63 - Database connection closed.
